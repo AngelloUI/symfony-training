@@ -1,4 +1,7 @@
 .idea
+.env
+.env.dev
+.env.test
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
